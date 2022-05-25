@@ -14,3 +14,4 @@ f=open('fruit.json','r')
 json.load(fruit,f)
 f.close()
 
+#오라클 db와 연동을 위한 라이브러리 설치
